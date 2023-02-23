@@ -18,11 +18,14 @@ Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br>
-§
 
 ### `pnpm run build`
 
 Builds the app for production to the `dist` folder.<br>
 It correctly bundles Solid in production mode and optimizes the build for the best performance.
+
+### [live demo](https://solidjs-project-with-load-more.vercel.app/)
+
+<br>
 
 ![alt text](https://res.cloudinary.com/dimagyjgo/image/upload/v1674573760/chrome-capture-2023-0-24_eos4nb.gif)
